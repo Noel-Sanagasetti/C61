@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.line {
+    height: 5px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+#apps {
+    background-color: aliceblue;
+}
+#games {
+    background-color:antiquewhite;
+}
+#chatbot {
+    background-color:aquamarine;
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
